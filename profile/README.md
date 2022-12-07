@@ -1,7 +1,7 @@
 ## This is the HASKI Project 👋
 #### Hochschullehre: adaptiv, selbstgesteuert, KI-gestützt
 
-Contact us on our website 🌐: ´will follow soon´
+Contact us on our website 🌐: ```will follow soon```
 
 contact one of our members via 📧 mail:
 jim.haug@hs-kempten.de
