@@ -6,6 +6,7 @@ Contact us on our website 🌐: ```will follow soon```
 contact one of our members via 📧 mail:
 jim.haug@hs-kempten.de
 david.fischer@hs-kempten.de
+marc.normann@th-ab.de
 <!--
 
 **Here are some ideas to get you started:**
