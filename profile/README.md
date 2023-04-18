@@ -1,12 +1,19 @@
 ## This is the HASKI Project 👋
 #### Hochschullehre: adaptiv, selbstgesteuert, KI-gestützt
 
-Contact us on our website 🌐: ```will follow soon```
+Contact us on our website 🌐: https://haski-learning.de/
 
 contact one of our members via 📧 mail:
+
 jim.haug@hs-kempten.de
+
 david.fischer@hs-kempten.de
+
 marc.normann@th-ab.de
+
+
+
+The HASKI Project is supported by the German Federal Ministry of Education and Research (BMBF), grant number 16DHBKI036, and the Bavarian State Ministry of Science and Art. The responsibility for the content of this repository remains with the contributors.
 <!--
 
 **Here are some ideas to get you started:**
