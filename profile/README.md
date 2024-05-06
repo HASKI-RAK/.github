@@ -9,7 +9,7 @@ jim.haug@hs-kempten.de
 
 david.fischer@hs-kempten.de
 
-marc.normann@th-ab.de
+dimitri.bigler@hs-kempten.de
 
 
 
